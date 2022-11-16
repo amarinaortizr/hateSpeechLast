@@ -1,0 +1,2 @@
+englishModel/ filter=lfs diff=lfs merge=lfs -text
+spanishModel/ filter=lfs diff=lfs merge=lfs -text
